@@ -1,4 +1,5 @@
-### RM 95409: vídeo q1B.mp4
+### Aluno: Gustavo Iusi Machado da Silva
+### RM: 95409 -> vídeo q1B.mp4
 
 import cv2
 import numpy as np
